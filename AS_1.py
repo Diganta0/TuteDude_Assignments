@@ -1,5 +1,5 @@
 #Task 1
-
+#Perform Basic Mathematical Operations
 
 a = int(input("Enter the first number: "))
 b = int(input("Enter the second number: "))
@@ -16,7 +16,7 @@ print("Division: ", D)
 
 
 #Task 2
-
+#Create a Personalized Greeting
 
 a = input("enter your first name:")
 b = input("enter your last name:")
